@@ -9,8 +9,8 @@ Currently, I’m actively looking for new opportunities to grow as a **Full-Stac
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maya-shasho-2954b61a7)](https://www.linkedin.com/in/maya-shasho-2954b61a7)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mayashasho6292@gmail.com)](mailto:mayashasho6292@gmail.com)
 
-## Check Out My Work:
-🔗 [**Visit My Portfolio**](https://MayaShasho.github.io/portfolio)
+<!-- ## Check Out My Work:
+🔗 [**Visit My Portfolio**](https://MayaShasho.github.io/portfolio) -->
 
 ## Technologies I've Worked With:  
 #### Programming Languages  
